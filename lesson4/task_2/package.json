@@ -1,7 +1,6 @@
 {
   "name": "task_2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,12 +9,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.15.7",
-    "@babel/core": "^7.15.5"
+    "@babel/cli": "^7.18.9",
+    "@babel/core": "^7.18.9"
   },
   "dependencies": {
-    "core-js": "^3.18.1",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
-  }
+    "core-js": "^3.24.0",
+    "react": "16.14",
+    "react-dom": "16.14"
+  },
+  "description": ""
 }
